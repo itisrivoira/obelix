@@ -1,27 +1,27 @@
 [
 	{		
-		"id": "B001",
-		"nome": "Sprite lattina 33cl",
-        "prezzo_euro": "2.00"
-    },
+		"id": "C001",
+		"nome": "Trancio pizza margherita",
+		"prezzo_euro": "2.50"
+    	},
 	{		
-       	"id": "B002",
-       	"nome": "Coca Cola lattina 33cl",
-       	"prezzo_euro": "2.00"
-    },
+		"id": "C002",
+		"nome": "Trancio pizza prosciutto",
+		"prezzo_euro": "2.50"
+    	},
 	{		
-       	"id": "B003",
-       	"nome": "Fanta lattina 33cl",
-       	"prezzo_euro": "2.00"
-    },
+		"id": "C003",
+		"nome": "Trancio pizza salame",
+        "prezzo_euro": "2.50"
+	},
 	{		
-       	"id": "B004",
-       	"nome": "Acqua Naturale 500ml",
-       	"prezzo_euro": "1.00"
-    },
+		"id": "C004",
+		"nome": "Insalatona",
+		"prezzo_euro": "5.50"
+	},
 	{		
-       	"id": "B005",
-       	"nome": "Acqua Frizzante 500ml",
-       	"prezzo_euro": "1.00"
-    }
+		"id": "C005",
+		"nome": "Kebab",
+        "prezzo_euro": "4.00"
+	}
 ]
