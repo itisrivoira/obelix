@@ -1,0 +1,22 @@
+[
+	{		
+		"id": "B001",
+		"nome": "Sprite lattina 33cl",
+        "prezzo_euro": "2.00"
+    },
+	{		
+       	"id": "B002",
+       	"nome": "Coca Cola lattina 33cl",
+       	"prezzo_euro": "2.00"
+    },
+	{		
+       	"id": "B003",
+       	"nome": "Fanta lattina 33cl",
+       	"prezzo_euro": "2.00"
+    },
+	{		
+       	"id": "B004",
+       	"nome": "Acqua Naturale 500ml",
+       	"prezzo_euro": "2.00"
+    }
+]
