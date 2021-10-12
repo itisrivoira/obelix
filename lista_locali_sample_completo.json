@@ -50,7 +50,7 @@
 		"menu": [
 			{
 				"id": "M001",
-				"prodotti": ["C001","B002"]
+				"prodotti": ["C001","B002"],
 				"prezzo_euro": "3.00"
 			}
 		]
@@ -91,12 +91,12 @@
 		"menu": [
 			{
 				"id": "M001",
-				"prodotti": ["C004","B002"]
+				"prodotti": ["C004","B002"],
 				"prezzo_euro": "5.00"
 			},
 			{
 				"id": "M002",
-				"prodotti": ["C005","B001"]
+				"prodotti": ["C005","B001"],
 				"prezzo_euro": "5.00"
 			}
 		]
@@ -136,3 +136,4 @@
 		],
 		"menu": []
 	}
+]
