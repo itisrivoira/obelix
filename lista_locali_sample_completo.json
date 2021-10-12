@@ -1,0 +1,138 @@
+[
+	{
+		"id": "S001",
+		"nome": "Bar Denina",
+		"indirizzo": "Via della Chiesa, 17",
+		"citta": "Saluzzo",
+		"telefono": "9999999999",
+		"email": "XXX",
+		"latitudine": 99,
+		"longitudine": 99,
+		"cibi": [
+			{		
+				"id": "C001",
+				"nome": "Trancio pizza margherita",
+				"prezzo_euro": "2.50"
+				},
+			{		
+				"id": "C002",
+				"nome": "Trancio pizza prosciutto",
+				"prezzo_euro": "2.50"
+				},
+			{		
+				"id": "C003",
+				"nome": "Trancio pizza salame",
+				"prezzo_euro": "2.50"
+			},
+			{		
+				"id": "C004",
+				"nome": "Insalatona",
+				"prezzo_euro": "5.50"
+			},
+			{		
+				"id": "C005",
+				"nome": "Kebab",
+				"prezzo_euro": "4.00"
+			}
+		],
+		"bevande": [
+			{		
+				"id": "B002",
+				"nome": "Coca Cola lattina 33cl",
+				"prezzo_euro": "2.00"
+			},
+			{		
+				"id": "B004",
+				"nome": "Acqua Naturale 500ml",
+				"prezzo_euro": "1.00"
+			}
+		],
+		"menu": [
+			{
+				"id": "M001",
+				"prodotti": ["C001","B002"]
+				"prezzo_euro": "3.00"
+			}
+		]
+	},
+	{
+		"id": "S002",
+		"nome": "Bar Pellico",
+		"indirizzo": "Via della Croce, 54",
+		"citta": "Saluzzo",
+		"telefono": "9999999999",
+		"email": "XXX",
+		"latitudine": 99,
+		"longitudine": 99,
+		"cibi": [
+			{		
+				"id": "C004",
+				"nome": "Insalatona",
+				"prezzo_euro": "5.50"
+			},
+			{		
+				"id": "C005",
+				"nome": "Kebab",
+				"prezzo_euro": "4.00"
+			}
+		],
+		"bevande": [
+			{		
+				"id": "B001",
+				"nome": "Sprite lattina 33cl",
+				"prezzo_euro": "2.00"
+			},
+			{		
+				"id": "B002",
+				"nome": "Coca Cola lattina 33cl",
+				"prezzo_euro": "2.00"
+			}
+		],
+		"menu": [
+			{
+				"id": "M001",
+				"prodotti": ["C004","B002"]
+				"prezzo_euro": "5.00"
+			},
+			{
+				"id": "M002",
+				"prodotti": ["C005","B001"]
+				"prezzo_euro": "5.00"
+			}
+		]
+	},
+	{
+		"id": "S003",
+		"nome": "Bar Rivoira",
+		"indirizzo": "Via Europa, 3",
+		"citta": "Verzuolo",
+		"telefono": "9999999999",
+		"email": "XXX",
+		"latitudine": 99,
+		"longitudine": 99,
+		"cibi": [
+			{		
+				"id": "C002",
+				"nome": "Trancio pizza prosciutto",
+				"prezzo_euro": "2.50"
+			},
+			{		
+				"id": "C003",
+				"nome": "Trancio pizza salame",
+				"prezzo_euro": "2.50"
+			},
+			{		
+				"id": "C005",
+				"nome": "Kebab",
+				"prezzo_euro": "4.00"
+			}
+		],
+		"bevande": [
+			{		
+				"id": "B004",
+				"nome": "Acqua Naturale 500ml",
+				"prezzo_euro": "1.00"
+			}
+		],
+		"menu": []
+	}
