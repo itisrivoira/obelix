@@ -50,6 +50,7 @@
 		"menu": [
 			{
 				"id": "M001",
+				"nome": "Margherita e Coca Cola",
 				"prodotti": ["C001","B002"],
 				"prezzo_euro": "3.00"
 			}
@@ -91,11 +92,13 @@
 		"menu": [
 			{
 				"id": "M001",
+				"nome": "Insalata e Coca Cola",
 				"prodotti": ["C004","B002"],
 				"prezzo_euro": "5.00"
 			},
 			{
 				"id": "M002",
+				"nome": "Kebab e Sprite",
 				"prodotti": ["C005","B001"],
 				"prezzo_euro": "5.00"
 			}
