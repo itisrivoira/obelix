@@ -1,11 +1,13 @@
 [
 	{
+		"id": "001",
 		"citta": "Saluzzo",
 		"stemma": "https://comune.saluzzo.cn.it/wp-content/uploads/sites/18/2019/01/saluzzoStemmaTrasparente400.png",
 		"lat": 44.6450097,
 		"lon": 7.4726104
 	},
-	{
+	{		
+		"id": "001",
 		"citta": "Verzuolo",
 		"stemma": "https://www.comune.verzuolo.cn.it/logo_tratto.png",
 		"lat": 44.5924909,
