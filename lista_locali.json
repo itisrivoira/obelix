@@ -2,79 +2,71 @@
 	{
 		"id": "P001",
 		"nome": "Il Picciotto",
+		"citta": "Saluzzo",
 		"indirizzo": "C.so Piemonte, 11",
-		"citta": "Saluzzo",
-		"telefono": "9999999999",
-		"email": "XXX",
-		"latitudine": 99,
-		"longitudine": 99,
-		"cibi": [],
-		"bevande": [],
-		"menu": []
-	},
-	{
-		"id": "P002",
-		"nome": "Amici",
-		"indirizzo": "XXX",
-		"citta": "Saluzzo",
-		"telefono": "9999999999",
-		"email": "XXX",
-		"latitudine": 99,
-		"longitudine": 99,
-		"cibi": [],
-		"bevande": [],
-		"menu": []
+		"telefono": "+393469671578",
+		"email": "",
+		"sito": "",
+		"logo_url": "",
+		"posizione": {
+			"latitudine": 44.646342,
+			"longitudine": 7.488605
+		}
 	},
 	{
 		"id": "P003",
-		"nome": "Bar Corona",
+		"nome": "Bar Corona Grossa",
+		"citta": "Saluzzo",
 		"indirizzo": "Corso Italia, 68",
-		"citta": "Saluzzo",
-		"telefono": "9999999999",
-		"email": "XXX",
-		"latitudine": 99,
-		"longitudine": 99,
-		"cibi": [],
-		"bevande": [],
-		"menu": []
-	},	
+		"telefono": "+39017542135",
+		"email": "coronagrossasaluzzo@gmail.com",
+		"sito": "https://www.barcoronagrossa.it/",
+		"logo_url": "https://lirp.cdn-website.com/0bf29ca5/dms3rep/multi/opt/Bar+Corona+Grossa_logo+BIANCO-216w.png",
+		"posizione": {
+			"latitudine": 44.6456981,
+			"longitudine": 7.4909646,
+		}
+	},
 	{
-		"id": "P004",
+		"id": "P003",
 		"nome": "Fujiyama",
-		"indirizzo": "Via della Resistenza, 16/E",
 		"citta": "Saluzzo",
-		"telefono": "9999999999",
-		"email": "XXX",
-		"latitudine": 99,
-		"longitudine": 99,
-		"cibi": [],
-		"bevande": [],
-		"menu": []
+		"indirizzo": "Via della Resistenza, 16/E",
+		"telefono": "+390175218831",
+		"email": "",
+		"sito": "",
+		"logo_url": "",
+		"posizione": {
+			"latitudine": 44.6475292,
+			"longitudine": 7.4939948
+		}
 	},
 	{
 		"id": "P005",
-		"nome": "Dublino",
-		"indirizzo": "C.so Italia, 106",
+		"nome": "Caffè Dublino",
 		"citta": "Saluzzo",
-		"telefono": "9999999999",
-		"email": "XXX",
-		"latitudine": 99,
-		"longitudine": 99,
-		"cibi": [],
-		"bevande": [],
-		"menu": []
+		"indirizzo": "C.so Italia, 106",
+		"telefono": "+390175290201",
+		"email": "",
+		"sito": "",
+		"logo_url": "",
+		"posizione": {
+			"latitudine": 44.646338,
+			"longitudine": 7.4897482
+		}
 	},
 	{
 		"id": "P006",
-		"nome": "Manhattan",
-		"indirizzo": "Via Palazzo di Città, 25",
+		"nome": "Manhattan Bar",
 		"citta": "Saluzzo",
-		"telefono": "9999999999",
-		"email": "XXX",
-		"latitudine": 99,
-		"longitudine": 99,
-		"cibi": [],
-		"bevande": [],
-		"menu": []
+		"indirizzo": "Via Palazzo di Città, 25",
+		"telefono": "+393299882546",
+		"email": "",
+		"sito": "",
+		"logo_url": "",
+		"posizione": {
+			"latitudine": 44.6456755,
+			"longitudine": 7.4890446
+		}
 	}
 ]
